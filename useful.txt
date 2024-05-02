@@ -1,0 +1,2 @@
+netsh wlan show all
+    -Can figure out if wireless card supports monitor mode.
